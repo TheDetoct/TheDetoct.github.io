@@ -1,0 +1,5 @@
+User-agent: *
+Allow: *
+Disallow: *.png
+Host: https://thedetoct.github.io
+Sitemap: 
