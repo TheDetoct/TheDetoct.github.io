@@ -2,4 +2,4 @@ User-agent: *
 Allow: *
 Disallow: *.png
 Host: https://thedetoct.github.io
-Sitemap: 
+Sitemap: https://thedetoct.github.io/sitemap.xml
